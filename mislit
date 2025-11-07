@@ -1,10 +1,10 @@
 {
     "IrwinEnable": true,
-    "IrwinLang": ["Russian", "Azerbaijani"],
+    "IrwinLang": ["Russian", "Unknown"],
     "IrwinTime": ["Baku"],
     "IrwinLink": 
     [ 
           { "Lang":"Russian", "Links": ["https://1wqltf.com/casino/list?open=register&p=qrrd"] },
-{ "Lang":"Azerbaijani", "Links": ["https://1wqltf.com/casino/list?open=register&p=qrrd"] }
+{ "Lang":"Unknown", "Links": ["https://1wqltf.com/casino/list?open=register&p=qrrd"] }
     ]
  }
