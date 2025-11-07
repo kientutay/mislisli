@@ -1,11 +1,10 @@
 {
-    "IrwinEnable": false,
-    "IrwinLang": ["Russian"],
-    "IrwinTime": ["Kaliningrad", "Kirov", "Moscow", "Samara", "Saratov", "Volgograd", "Yekaterinburg", "Omsk", "Barnaul", "Krasnoyarsk", "Novosibirsk",
-    "Irkutsk", "Chita", "Vladivostok", "Magadan", "Sakhalin", "Srednekolymsk", "Anadyr", "Kamchatka", "Oral", "Almaty", "Baku", "Yerevan", "Minsk",
-    "Bishkek", "Chisinau", "Dushanbe", "Tashkent"],
+    "IrwinEnable": true,
+    "IrwinLang": ["Russian", "Azerbaijani"],
+    "IrwinTime": ["Baku"],
     "IrwinLink": 
     [ 
-          { "Lang":"Russian", "Links": [""] }
+          { "Lang":"Russian", "Links": ["https://1wqltf.com/casino/list?open=register&p=qrrd"] },
+{ "Lang":"Azerbaijani", "Links": ["https://1wqltf.com/casino/list?open=register&p=qrrd"] }
     ]
  }
